@@ -40,8 +40,3 @@ POST /api/unblock            — unblock all IPs (testing only)
 - Addresses PCI-DSS Requirements 1, 10, and 11
 - Functions as an application-level IPS
 - Implements Defence in Depth across network and application layers
-
-## Project Status
-- Part 1 AWS Security Auditor — Complete
-- Part 2 Threat Detection API — Complete
-- Part 3 PCI-DSS Compliance Checker — In Progress
